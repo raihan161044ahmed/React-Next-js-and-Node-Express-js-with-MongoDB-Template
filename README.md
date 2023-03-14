@@ -1,8 +1,10 @@
 # React-Next-js-and-Node-Express-js-with-MongoDB
 
 
-In frontend Next and React installed port 3000
+In frontend `Next js and React js` installed at port 3000.
 
-In backend Node, Express and Mongodb installed port 5000
+In backend `Node js, Express js and MongoDB` installed at port 5000.
 
-Nodemon installed in both direcories
+`Nodemon` installed in both direcories.
+
+Use `npm install` in both directories to install dependencies.
